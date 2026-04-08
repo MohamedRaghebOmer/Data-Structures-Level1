@@ -10,7 +10,7 @@ What makes this repository "Advanced"?
 * **Template-Based Design:** Every structure is generic, supporting any data type through C++ Templates.
 * **Manual Memory Management:** Direct manipulation of heap memory using `new` and `delete`, ensuring zero memory leaks through careful destructor logic.
 * **The Adapter Pattern:** Implementing Stacks and Queues by "adapting" existing structures like Linked Lists and Dynamic Arrays, demonstrating code reusability.
-* **Algorithmic Rigor:** All operations are analyzed and documented based on their **Big O Notation** performance.
+* **Algorithmic Rigor:** All operations  are analyzed and documented based on their **Big O Notation** performance.
 
 ---
 
